@@ -35,4 +35,4 @@ _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) --> @trbld4775
 
 ---
-![Footer](https://xakep.ru/tag/redaktor-koda/)
+![Footer](https://xakep.ru/wp-content/uploads/2019/04/218715/skull-h-850x491.jpg)
