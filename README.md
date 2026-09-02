@@ -29,3 +29,10 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 ---
 
 _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
+
+---
+## 📊 My Progress
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OXE1P&show_icons=true&theme=dark)
+
+---
