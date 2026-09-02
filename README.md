@@ -2,7 +2,7 @@
 
 ### ⚔️🛡️Future Red Team Engineer · Pentester
 
-I’m not just learning to hack—I’m learning to **think like a system**.
+I’m not just learning to hack - I’m learning to **think like a system**.
 
 ##  My philosophy 🧠
 
