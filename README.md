@@ -14,7 +14,7 @@ I’m not just learning to hack—I’m learning to **think like a system**.
 - **Learning C, C++, and Python** — writing my own exploits, shells, and utilities.
 - **Solving HTB and TryHackMe challenges** — honing my penetration testing skills.
 - **Learning English** — reading documentation in the original language.
-- **Studying a vast amount of theoretical and practical material in the field of cybersecurity.
+- **Studying a vast amount of theoretical and practical material in the field of cybersecurity.**
 ---
 
 ## 🗂️ My Projects
