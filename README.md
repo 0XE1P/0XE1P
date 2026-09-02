@@ -1,4 +1,4 @@
-#  Hi, I'm OxE1P.
+#  Hi, I'm 0xE1P.
 
 ### ⚔️🛡️Future Red Team Engineer · Pentester
 
@@ -22,9 +22,9 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 
 | Projects | Descriptions |
 |--------|----------|
-| [📝 **Write-ups**](https://github.com/OXE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
-| [🔧 **Tools**](https://github.com/OXE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
-| [🏆 **Certifications**](https://github.com/OXE1P/Certifications) | My certificates and verification links |
+| [📝 **Write-ups**](https://github.com/0XE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
+| [🔧 **Tools**](https://github.com/0XE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
+| [🏆 **Certifications**](https://github.com/0XE1P/Certifications) | My certificates and verification links |
 
 ---
 
