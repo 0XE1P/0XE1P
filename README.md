@@ -32,6 +32,6 @@ _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 
 ---
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oxeip1)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) --> @trbld4775
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) --> @trbld4775
 
 ---
