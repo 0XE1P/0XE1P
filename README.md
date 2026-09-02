@@ -17,12 +17,14 @@ I’m not just learning to hack—I’m learning to **think like a system**.
 - **Studying a vast amount of theoretical and practical material in the field of cybersecurity.
 ---
 
-## 🗂️ Мои проекты
+## 🗂️ My Projects
 
 | Projects | Descriptions |
 |--------|----------|
-| [📝 **Write-ups**](https://github.com/OXE1P/writeups) | Отчёты по взломанным машинам (HTB, Proving Grounds) |
-| [🔧 **Tools**](https://github.com/OXE1P/tools) | Самописные утилиты для пентеста на C и Python |
-| [🏆 **Certifications**](https://github.com/OXE1P/certifications) | Мои сертификаты и ссылки на верификацию |
+| [📝 **Write-ups**](https://github.com/OXE1P/writeups) |Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
+| [🔧 **Tools**](https://github.com/OXE1P/tools) | Самописные утилиты для пентеста на C, C++ и Python |
+| [🏆 **Certifications**](https://github.com/OXE1P/certifications) | My certificates and verification links |
 
 ---
+
+_«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
