@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Hi, I'm OxE1P.
 
-<!--
-**0XE1P/0XE1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️Future Red Team Engineer · Pentester
 
-Here are some ideas to get you started:
+Я не просто учусь взламывать — я учусь **мыслить как система**.  
+Моя цель — понять, как защищены компании, чтобы уметь защищать их лучше, чем злоумышленники атакуют.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Сейчас я здесь:**  
+🔹 Изучаю **С++, С, ASM** для написания эксплойтов, 
+🔹 Решаю **HTB и TryHackMe**  
+🔹 I'm preparing for certifications **eJPT → OSCP+**
+
+---
+
+##  My philosophy
+
+> 0 and 1 are just digits. But in the right sequence, they become keys to other worlds.
+---
+
+## 📚 What I'm currently working on
+
+- **Learning C, C++, and Python** — writing my own exploits, shells, and utilities.
+- **Solving HTB and TryHackMe challenges** — honing my penetration testing skills.
+- **Learning English** — reading documentation in the original language.
+---
