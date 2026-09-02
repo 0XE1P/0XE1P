@@ -22,9 +22,9 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 
 | Projects | Descriptions |
 |--------|----------|
-| [📝 **Write-ups**](https://github.com/OXE1P/writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
-| [🔧 **Tools**](https://github.com/OXE1P/tools) | Custom pentesting utilities in C, C++, and Python |
-| [🏆 **Certifications**](https://github.com/OXE1P/certifications) | My certificates and verification links |
+| [📝 **Write-ups**](https://github.com/OXE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
+| [🔧 **Tools**](https://github.com/OXE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
+| [🏆 **Certifications**](https://github.com/OXE1P/Certifications) | My certificates and verification links |
 
 ---
 
