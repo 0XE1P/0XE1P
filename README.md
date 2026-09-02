@@ -2,15 +2,7 @@
 
 ### 🛡️Future Red Team Engineer · Pentester
 
-Я не просто учусь взламывать — я учусь **мыслить как система**.  
-Моя цель — понять, как защищены компании, чтобы уметь защищать их лучше, чем злоумышленники атакуют.
-
-**Сейчас я здесь:**  
-🔹 Изучаю **С++, С, ASM** для написания эксплойтов, 
-🔹 Решаю **HTB и TryHackMe**  
-🔹 I'm preparing for certifications **eJPT → OSCP+**
-
----
+I’m not just learning to hack—I’m learning to **think like a system**.
 
 ##  My philosophy
 
