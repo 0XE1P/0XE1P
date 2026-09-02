@@ -4,7 +4,7 @@
 
 I’m not just learning to hack - I’m learning to **think like a system**.
 
-##  My philosophy 🧠
+##  My philosophy 
 
 > 0 and 1 are just digits. But in the right sequence, they become keys to other worlds.
 ---
