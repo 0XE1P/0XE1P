@@ -1,17 +1,28 @@
 #  Hi, I'm OxE1P.
 
-### 🛡️Future Red Team Engineer · Pentester
+### ⚔️🛡️Future Red Team Engineer · Pentester
 
-I’m not just learning to hack - I’m learning to **think like a system**.
+I’m not just learning to hack—I’m learning to **think like a system**.
 
-##  My philosophy
+##  My philosophy 🧠
 
-> "0 and 1 are just digits. But in the right sequence, they become keys to other worlds."
+> 0 and 1 are just digits. But in the right sequence, they become keys to other worlds.
 ---
 
 ## 📚 What I'm currently working on
 
 - **Learning C, C++, and Python** — writing my own exploits, shells, and utilities.
-- **Solving HackTheBox and TryHackMe challenges** — honing my penetration testing skills.
+- **Solving HTB and TryHackMe challenges** — honing my penetration testing skills.
 - **Learning English** — reading documentation in the original language.
+- **Studying a vast amount of theoretical and practical material in the field of cybersecurity.
+---
+
+## 🗂️ Мои проекты
+
+| Projects | Descriptions |
+|--------|----------|
+| [📝 **Write-ups**](https://github.com/OXE1P/writeups) | Отчёты по взломанным машинам (HTB, Proving Grounds) |
+| [🔧 **Tools**](https://github.com/OXE1P/tools) | Самописные утилиты для пентеста на C и Python |
+| [🏆 **Certifications**](https://github.com/OXE1P/certifications) | Мои сертификаты и ссылки на верификацию |
+
 ---
