@@ -15,6 +15,7 @@ I’m not just learning to hack—I’m learning to **think like a system**.
 - **Solving HTB and TryHackMe challenges** — honing my penetration testing skills.
 - **Learning English** — reading documentation in the original language.
 - **Studying a vast amount of theoretical and practical material in the field of cybersecurity.**
+- **Sometimes I participate in bug bounty programs and CTF competitions.**
 ---
 
 ## 🗂️ My Projects
@@ -22,7 +23,7 @@ I’m not just learning to hack—I’m learning to **think like a system**.
 | Projects | Descriptions |
 |--------|----------|
 | [📝 **Write-ups**](https://github.com/OXE1P/writeups) |Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
-| [🔧 **Tools**](https://github.com/OXE1P/tools) | Самописные утилиты для пентеста на C, C++ и Python |
+| [🔧 **Tools**](https://github.com/OXE1P/tools) | Custom pentesting utilities in C, C++, and Python |
 | [🏆 **Certifications**](https://github.com/OXE1P/certifications) | My certificates and verification links |
 
 ---
