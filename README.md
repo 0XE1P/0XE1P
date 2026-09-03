@@ -4,9 +4,6 @@
 
 I’m not just learning to hack - I’m learning to **think like a system**.
 
-##  #My philosophy 
-
-> 0 and 1 are just digits. But in the right sequence, they become keys to other worlds.
 ---
 
 ## 📚 What I'm currently working on
@@ -29,7 +26,10 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 ---
 
 _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
+##  #My philosophy 
 
+> _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
+> _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ---
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oxeip1)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) --> @trbld4775
