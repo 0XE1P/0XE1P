@@ -29,6 +29,7 @@ _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ##  #My philosophy 
 
 > _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
+-
 > _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ---
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oxeip1)
