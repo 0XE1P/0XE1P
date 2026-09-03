@@ -6,7 +6,7 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 
 ---
 
-## 📚 What I'm currently working on
+## ⚫🔴 What I'm currently working on
 
 - **Exploring C, C++, Assembly and Python** — writing my own exploits, shells, and utilities.
 - **Solving HTB and TryHackMe challenges and sometimes I solve reverse engineering crackmes** — honing my penetration testing skills.
@@ -15,13 +15,13 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 - **Participating in Bug bounty programs and CTF competitions.**
 ---
 
-## 🗂️ My Projects
+## ⚫🔴 My Projects
 
 | Projects | Descriptions |
 |--------|----------|
-| [📝 **Write-ups**](https://github.com/0XE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
-| [🔧 **Tools**](https://github.com/0XE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
-| [🏆 **Certifications**](https://github.com/0XE1P/Certifications) | My certificates and verification links |
+| [ **Write-ups**](https://github.com/0XE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
+| [ **Tools**](https://github.com/0XE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
+| [ **Certifications**](https://github.com/0XE1P/Certifications) | My certificates and verification links |
 
 ---
 
@@ -33,7 +33,7 @@ _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 > _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ---
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oxeip1)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) --> @trbld4775
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 ![Footer](https://xakep.ru/wp-content/uploads/2019/04/218715/skull-h-850x491.jpg)
