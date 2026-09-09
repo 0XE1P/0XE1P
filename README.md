@@ -9,7 +9,7 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 ## ⚫🔴 What I'm currently working on
 
 - **Exploring C, C++, Assembly and Python** — writing my own exploits, shells, and utilities.
-- **Solving HTB and TryHackMe challenges and sometimes I solve reverse engineering crackmes** — honing my penetration testing skills.
+- **Solving HTB and TryHackMe challenges and sometimes I solve reverse engineering crackmes** — honing my penetration testing and reverse engineering skills.
 - **Learning English** — reading documentation in the original language.
 - **Studying a vast amount of theoretical and practical material in the fields of cybersecurity and AI.**
 - **Participating in Bug bounty programs and CTF competitions.**
