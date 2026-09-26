@@ -21,7 +21,6 @@ I’m not just learning to hack - I’m learning to **think like a system**.
 |--------|----------|
 | [ **Write-ups**](https://github.com/0XE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
 | [ **Tools**](https://github.com/0XE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
-| [ **Certifications**](https://github.com/0XE1P/Certifications) | My certificates and verification links |
 
 ---
 
