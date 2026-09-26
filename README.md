@@ -21,7 +21,6 @@
 
 ---
 
-_«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
 ##  #My philosophy 
 
 > _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
