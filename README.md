@@ -21,7 +21,7 @@
 
 ---
 
-##  #My philosophy 
+##  #My guiding principles
 
 > _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
 
