@@ -21,7 +21,5 @@
 
 > _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
 
-> _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
-
 ---
 ![Footer](https://xakep.ru/wp-content/uploads/2019/04/218715/skull-h-850x491.jpg)
