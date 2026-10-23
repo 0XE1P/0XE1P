@@ -1,7 +1,5 @@
 #  Hi, I'm 0xE1P.
 
-### ⚔️🛡️Red Team Engineer · Pentester
-
 ---
 
 ## ⚫🔴 What I'm currently working on
@@ -16,7 +14,6 @@
 
 | Projects | Descriptions |
 |--------|----------|
-| [ **Write-ups**](https://github.com/0XE1P/Writeups) | Write-ups for compromised machines (HTB, TryHackMe, Proving Grounds) |
 | [ **Tools**](https://github.com/0XE1P/Tools) | Custom pentesting utilities in C, C++, and Python |
 
 ---
@@ -26,9 +23,6 @@
 > _«0 and 1 are just digits. But in the right sequence, they become keys to other worlds.»_
 
 > _«Dynamic IP is for those who are afraid. I choose dynamic progress.»_
----
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 ![Footer](https://xakep.ru/wp-content/uploads/2019/04/218715/skull-h-850x491.jpg)
